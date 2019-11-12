@@ -32,10 +32,9 @@ figcaption {
   margin: auto;
 }
 
-#details {
-  display: block;
-}
 
 #details div {
+  display: block;
   float: left;
+  width: 25%
 }
